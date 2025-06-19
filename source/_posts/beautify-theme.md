@@ -13,4 +13,7 @@ npm install oh-my-live2d@latest
 https://oml2d.hacxy.cn/guide/hexo.html
 
 npm install hexo-oh-my-live2d
+
+https://github.com/Eikanya/Live2d-model
+
 ```
