@@ -70,3 +70,17 @@ and modify the local_search on theme config
 9、setup the animation background
 refer to this project  `https://github.com/theme-next/theme-next-three`
 
+10、deploy your blog on github
+
+install plugin
+```shell
+npm install hexo-deployer-git --save
+```
+set hexo config
+```shell
+deploy:
+  type: git
+  repository: git@github.com:用户名/用户名.github.io.git
+  branch: master
+```
+
