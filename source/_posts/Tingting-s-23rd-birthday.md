@@ -23,6 +23,5 @@ Ok ,go home!
 </div>
 
 
-
- 
+And the next day，i did these.^ ^mouth watering！<img src="https://tanzhiwei-images.oss-cn-hangzhou.aliyuncs.com/blog/get_thumbnail-20250629193526481.jpeg" alt="img"  />
 
