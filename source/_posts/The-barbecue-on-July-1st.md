@@ -22,5 +22,4 @@ and we went to sleep.
 
 Good night!	
 
-​	<img src="https://tanzhiwei-images.oss-cn-hangzhou.aliyuncs.com/blog/get_thumbnail-20250702134122332.jpeg" alt="img" style="zoom: 67%;" />
-
+![image-20250702140252381](https://tanzhiwei-images.oss-cn-hangzhou.aliyuncs.com/blog/image-20250702140252381.png)
