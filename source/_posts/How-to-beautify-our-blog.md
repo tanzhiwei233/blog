@@ -83,4 +83,11 @@ deploy:
   repository: git@github.com:用户名/用户名.github.io.git
   branch: master
 ```
+11、how to add live2d-widget
+
+add the following code in next theme /layout/_layout.swig
+```shell
+<script src="https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js"></script>
+```
+
 
