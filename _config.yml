@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Eaaagle!
+subtitle: 'Eaaagle!'
+description: "Let it be."
 keywords:
-author: John Doe
+author: Zhiwei Tan
 language: en
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -100,5 +100,7 @@ theme: hexo-theme-next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: ''
+#deploy:
+#  type: git
+#  repository: git@github.com:tanzhiwei233/tanzhiwei233.github.io.git
+#  branch: master

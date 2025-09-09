@@ -8,7 +8,7 @@ tags: blog
 
 https://hexo.io/zh-cn/docs/
 
-2、mofigy site config.yml to set the theme for our blog
+2、modify site config.yml to set the theme for our blog
 
 ```shell
 git clone git@github.com:theme-next/hexo-theme-next.git themes/next
@@ -89,5 +89,7 @@ add the following code in next theme /layout/_layout.swig
 ```shell
 <script src="https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js"></script>
 ```
+git clone git@github.com:tanzhiwei233/live2d-widget.git
+
 
 
